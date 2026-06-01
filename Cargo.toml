@@ -1,0 +1,8 @@
+[package]
+name = "plato-spectral"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Spectral mathematics for PLATO — DFT alert analysis, Fisher metric rooms, conservation laws, Sinkhorn distillation"
+
+[dev-dependencies]
